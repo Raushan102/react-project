@@ -1,0 +1,45 @@
+#SubMAin_container{
+    height: 15em;
+    width: 12em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #e4cfcf00;
+    border-radius: 0.7em;
+    margin: 0.5em;
+    background: linear-gradient(40deg, #f908f9, aqua);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+}
+
+
+#image{
+     width: 7em;
+     height: 7em;
+}
+
+#image:hover{
+    filter:drop-shadow(20px 20px 30px rgba(10, 197, 160, 0.647))
+}
+
+#title{
+  
+}
+
+#description{
+  font-size: 0.8em;
+  font-weight: 700;
+  text-align: center;
+  margin: 0.1px;
+  padding: 0.1px;
+  
+}
+
+
+
+
+
+
