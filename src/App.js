@@ -3,7 +3,7 @@ import React from "react";
 import Header from "./component/Header/Header";
 import Main from "./component/Main/Main";
 import Button from "./component/Button/Button";
-import { useState, Fragment } from "react";
+import { useState } from "react";
 import { EXAMPLES } from "./component/Data/RowData";
 
 function App() {
