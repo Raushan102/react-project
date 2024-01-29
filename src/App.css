@@ -8,6 +8,7 @@
 
 body{
    width: 100vw;
+   font-family: 'Karla', sans-serif;
    background: radial-gradient(#280a48, #20043d);
 }
 
@@ -19,3 +20,62 @@ body{
   justify-content: center;
   flex-direction: column;
 }
+#buttonContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+#mainButton_or_Para_Container{
+  width: 55.5%;
+  height: auto;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+ 
+  background-color: rgba(1, 1, 1, 0.195);
+}
+#paraContainer{
+  width: 70%;
+ 
+  margin: 10px;
+  background: linear-gradient(40deg, #f908f9, aqua);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-self: space-between;
+  font-family: 'Poppins', sans-serif;
+}
+
+#paraContainer h2{
+  color :#fafafabc;
+
+  font-size: 1.1em;
+  margin: 10px;
+ 
+}
+#paraContainer p{
+  color :#fafafab8;
+  font-size: 0.9em;
+  margin: 10px;
+}
+#paraContainer code{
+  color :#fafafaa5;
+  font-family: 'Source Code Pro', monospace;  margin: 10px;
+  white-space: pre;
+}
+#Main{
+  flex-wrap: wrap;
+}
+
+
+
+
+
