@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-project/static/css/main.2147ec5a.css",
-    "main.js": "/react-project/static/js/main.d1f2effc.js",
+    "main.css": "/react-project/static/css/main.cd332d12.css",
+    "main.js": "/react-project/static/js/main.13b0e322.js",
     "static/media/config.png": "/react-project/static/media/config.afd8e8f0d2acd6b65ae8.png",
     "static/media/jsx-ui.png": "/react-project/static/media/jsx-ui.d4de1ca13d7e3226a7fa.png",
     "static/media/react-core-concept.png": "/react-project/static/media/react-core-concept.cc5ac625cda1aac30973.png",
     "static/media/component.png": "/react-project/static/media/component.fd5faac267c2c8c8eef0.png",
     "static/media/state-mgmt.png": "/react-project/static/media/state-mgmt.f3f4320f530711c79616.png",
     "index.html": "/react-project/index.html",
-    "main.2147ec5a.css.map": "/react-project/static/css/main.2147ec5a.css.map",
-    "main.d1f2effc.js.map": "/react-project/static/js/main.d1f2effc.js.map"
+    "main.cd332d12.css.map": "/react-project/static/css/main.cd332d12.css.map",
+    "main.13b0e322.js.map": "/react-project/static/js/main.13b0e322.js.map"
   },
   "entrypoints": [
-    "static/css/main.2147ec5a.css",
-    "static/js/main.d1f2effc.js"
+    "static/css/main.cd332d12.css",
+    "static/js/main.13b0e322.js"
   ]
 }
