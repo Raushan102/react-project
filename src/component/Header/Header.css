@@ -8,6 +8,7 @@
     width: 100vw;
     padding: 10px;
     margin: 10px;
+    
    
 }
  
@@ -20,17 +21,17 @@
 }
 
 #HeaderH1{
-    font-family: "Roboto Condensed", sans-serif;
 
     font-size: 5em;
     background: linear-gradient(40deg, #f908f9, aqua);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+    font-weight: 600;
 }
 #HeaderPara{
  font-size: 1.5em;
- font-family: "Roboto Condensed", sans-serif;
+ 
  background: linear-gradient(40deg, #f908f9, aqua);
  -webkit-background-clip: text;
  background-clip: text;

@@ -18,7 +18,7 @@ import CORE_CONCEPTS from "../Data/RowData";
 export default function Main() {
   return (
     <div id="mainContainer">
-      <h2>core concept</h2>
+      <h2>Core Concept</h2>
 
       <div id="Container">
         {CORE_CONCEPTS.map((element, index) => (

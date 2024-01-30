@@ -18,28 +18,29 @@ function App() {
       <Header />
       <Main id="Main" />
       <div id="mainButton_or_Para_Container">
+        <h1 id="Example">Example</h1>
         <div id="buttonContainer">
           <Button
             isSelected={paragraph === `components`}
-            onSelect={() => clickHandler("components")}
+            onClick={() => clickHandler("components")}
           >
             Components
           </Button>
           <Button
             isSelected={paragraph === `jsx`}
-            onSelect={() => clickHandler(`jsx`)}
+            onClick={() => clickHandler(`jsx`)}
           >
             jsx
           </Button>
           <Button
             isSelected={paragraph === `state`}
-            onSelect={() => clickHandler(`state`)}
+            onClick={() => clickHandler(`state`)}
           >
             state
           </Button>
           <Button
             isSelected={paragraph === `props`}
-            onSelect={() => clickHandler(`props`)}
+            onClick={() => clickHandler(`props`)}
           >
             props
           </Button>

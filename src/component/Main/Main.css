@@ -13,15 +13,16 @@
   width: auto;
   max-width: 56%;
   flex-wrap: wrap;
-  
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   background-color: rgba(10, 0, 14, 0.263);
   color: rgb(142, 26, 150);
+
 }
 
 #mainContainer  h2 {
-  margin-top: 12px;
- 
+  margin-top: 12px ;
+  color: rgba(240, 248, 255, 0.316);
 }
